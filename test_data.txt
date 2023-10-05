@@ -1,0 +1,14 @@
+Shop Number,Shop Name,Category,Location,Rating
+1,ABC Electronics,Electronics,Floor 1, Aisle 3,4
+2,Fashion Paradise,Clothing,Floor 2, Aisle 1,5
+3,XYZGadgets,Electronics,Floor 2,Aisle 3, 5
+4,Book Haven,Books,Floor 3, Aisle 2,4
+5,Tech Haven,Electronics,Floor 1, Aisle 2,3
+6,Sportsworld,Sports,Floor 2, Aisle 3,4
+7,Home Comfort,Home Decor,Floor 3, Aisle 1,5
+8,Fashion Trends,Clothing,Floor 2, Aisle 2,3
+9,Bookworm's Delight,Books,Floor 3, Aisle 3,5
+10,Tech Universe,Electronics,Floor 1, Aisle 1,4
+
+
+
